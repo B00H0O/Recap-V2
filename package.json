@@ -1,0 +1,13 @@
+{
+  "name": "recap-v2",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "reCAPTCHA v2 solver - raw CDP + real Chrome + document interception + audio->STT (v2 & v2-Enterprise).",
+  "scripts": {
+    "solve": "node solve-v2.mjs",
+    "server": "node server.mjs"
+  },
+  "dependencies": {
+    "ws": "^8.21.0"
+  }
+}

@@ -1,0 +1,11 @@
+.env
+server.log
+*.log
+node_modules/
+__pycache__/
+models/
+dist/
+_diag_flow.mjs
+_build_*.mjs
+proxies.txt
+v2-token.txt
